@@ -1,0 +1,10 @@
+# individual folders
+/node_modules
+/logs
+.vscode
+.idea
+.env
+.packages-lock.json
+# individual files
+/.tmp
+/exceptions.log
